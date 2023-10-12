@@ -1,4 +1,4 @@
-![MasterHead]([https://i.imgur.com/0W5LmDj.png](https://i.imgur.com/Ll3e0EV.gifv))
+![MasterHead](https://i.imgur.com/Ll3e0EV.gifv)
 <h1 align="center">Hi 👋, I'm Abebe.</h1>
 <h3 align="center">A passionate software developer.</h3>
 <img align="right" alt="Software Developer" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
