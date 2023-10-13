@@ -26,7 +26,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abebe-biru&" alt="abebe-biru" /></p>
 -->
-### Hi there 👋.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abebe+Biru!;" />
+</h1>
+<h3 align="center">A passionate software developer</h3><br>
+<div align="center">
+  
+ 🌱 I’m currently learning **Next.js**
+
+- 💬 Ask me about **React, Laravel [here](https://github.com/Abebe-Biru/Abebe-Biru/issues)**
+
+- ⚡ Fun fact: **I'm a shy bloomer, but once I open up, I'm the best friend you could ask for.**
+ </div>
 <div>
   <a href="https://github/Abebe-Biru"><a/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abebe-Biru&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -58,5 +69,5 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
 
-  ![Snake animation](https://github.com/Abebe-Biru/blob/output-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/Abebe-Biru/blob/output-contribution-grid-snake.svg)-->
 </div>
