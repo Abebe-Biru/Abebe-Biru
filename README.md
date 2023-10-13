@@ -8,7 +8,7 @@
 
  💬 Ask me about **React, Laravel [here](https://github.com/Abebe-Biru/Abebe-Biru/issues)**
 
- ⚡ Fun fact: **I'm a shy bloomer, but once I open up, I'm the best friend you could ask for.**
+ ⚡ Fun fact(about me): **I'm a shy bloomer, but once I open up, I'm the best friend you could ask for.**
  <div>
   <a href="https://linkedin.com/in/abebe-biru" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
