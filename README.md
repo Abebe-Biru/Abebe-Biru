@@ -51,7 +51,7 @@
  <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎉+As+dhufuukee+gammadeera!+🤗;🎉+እዚህ+በመምጣትህ+ደስ+ብሎኛል!+🤗;+🎉+Glad+you're+here!+🤗">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎉+As+dhufuukee+gammadeera!+🤗;🎉+እዚህ+በመምጣትህ/ሽ+ደስ+ብሎኛል!+🤗;+🎉+Glad+you're+here!+🤗">
 </h3>
 <hr/>
 
