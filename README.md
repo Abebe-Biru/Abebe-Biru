@@ -1,59 +1,111 @@
+<!-- Center header with typing animation -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abebe+Biru!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abebe+Biru!" alt="Typing SVG" />
 </h1>
-<h3 align="center">Software Engineer | AI Enthusiast</h3><br>
-<div align="center">
-  
- 🌱 I’m currently learning **Next.js**
 
- 💬 Ask me about **React, Laravel [here](https://github.com/Abebe-Biru/Abebe-Biru/issues)**
+<h3 align="center">🚀 Software Engineer | 🤖 AI Enthusiast | 📚 Booklover | 🙏 Believer</h3>
 
- ⚡ Fun fact(about me): **I'm a shy bloomer, but once I open up, I'm the best friend you could ask for.**
- <div>
-  <a href="https://linkedin.com/in/abebe-biru" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<p align="center">
+  <a href="https://linkedin.com/in/abebe-biru" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-    <a href="https://facebook.com/abs476" target="_blank" >
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
-      
+  <a href="https://facebook.com/abs476" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-    <a href="https://twitter.com/AbebeBiru5" target="_blank" >
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+  <a href="https://twitter.com/AbebeBiru5" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
- </div>
- 
- <hr/>
- 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+</p>
 
- <div style="display:inline_block"><br>
-  <img align="center" alt="Rafa.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Rafa.Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
-</div>
-<br/>
-<hr/>
-<!--
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<!--
-<div>
-  <a href="https://github/Abebe-Biru"><a/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abebe-Biru&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abebe-Biru&layout=compact&langs_count=16&theme=dracula" />
- </div>
+---
 
- <!-- ![Snake animation](https://github.com/Abebe-Biru/blob/output-contribution-grid-snake.svg)-->
- <hr/>
+## 🧑‍💻 About Me
+
+- 🌍 Living with a purpose, coding with passion.
+- 🌱 Currently mastering **Next.js** and exploring **Machine Learning**.
+- 🎯 Goals: Building meaningful software solutions.
+- 📚 Bookworm: Always learning about tech, personal development, and philosophy.
+- 🙌 Believer in kindness, discipline, and creativity.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,php,laravel,html,css,git,github" />
+</p>
+
+---
+
+## 🎶 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31pjbsqwtr6zvfp9xkl0bnrbw57i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Machine%20Learning-yellow?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abebe-Biru&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abebe-Biru&theme=onestar&no-frame=true&row=2&column=3" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abebe-Biru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abebe-Biru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+---
+
+## 📅 Weekly Coding Time
+
+<!-- You need to use WakaTime for this -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&layout=compact" />
+</p>
+
+---
+
+## 🌟 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abebe-Biru&style=flat-square&color=brightgreen" alt="Profile Views"/>
+</p>
+
+---
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎉+As+dhufuukee+gammadeera!+🤗;🎉+እዚህ+በመምጣትህ/ሽ+ደስ+ብሎኛል!+🤗;+🎉+Glad+you're+here!+🤗">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎉+Glad+you're+here!+🤗;🎉+እዚህ+በመምጣትህ/ሽ+ደስ+ብሎኛል!+🤗">
 </h3>
-<hr/>
 
-</div>
+---
