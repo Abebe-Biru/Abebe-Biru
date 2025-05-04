@@ -22,7 +22,7 @@
 
 - 🌍 Building software that makes a difference.
 - 🤖 Passionate about the influence of AI on local communities and emerging markets.
-- 🎯 Current focus: Researching and building projects using **RAG (Retrieval-Augmented Generation)**, **CAG (Context-Augmented Generation)**, and **MCP (Model Context Protocol)**.
+- 🎯 Current focus: Researching and building projects using **RAG (Retrieval-Augmented Generation)**, **CAG (Cache-Augmented Generation)**, and **MCP (Model Context Protocol)**.
 - 📚 Booklover exploring tech, innovation, and leadership.
 - ⚡ Fun Fact: I’m a shy bloomer — but once I open up, I'm the best friend you could ask for.
 
@@ -32,14 +32,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,php,laravel,html,css,git,github" />
-</p>
-
----
-
-## 🎶 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31pjbsqwtr6zvfp9xkl0bnrbw57i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
 ---
