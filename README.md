@@ -1,9 +1,8 @@
-<!-- Center header with typing animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abebe+Biru!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Software Engineer | 🤖 AI Enthusiast | 📚 Booklover | 🙏 Believer</h3>
+<h3 align="center">🚀 Software Engineer | 🤖 AI Enthusiast | 📚 Booklover</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abebe-biru" target="_blank">
@@ -21,11 +20,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🌍 Living with a purpose, coding with passion.
-- 🌱 Currently mastering **Next.js** and exploring **Machine Learning**.
-- 🎯 Goals: Building meaningful software solutions.
-- 📚 Bookworm: Always learning about tech, personal development, and philosophy.
-- 🙌 Believer in kindness, discipline, and creativity.
+- 🌍 Building software that makes a difference.
+- 🤖 Passionate about the influence of AI on local communities and emerging markets.
+- 🎯 Current focus: Researching and building projects using **RAG (Retrieval-Augmented Generation)**, **CAG (Context-Augmented Generation)**, and **MCP (Model Context Protocol)**.
+- 📚 Booklover exploring tech, innovation, and leadership.
+- ⚡ Fun Fact: I’m a shy bloomer — but once I open up, I'm the best friend you could ask for.
 
 ---
 
@@ -48,8 +47,9 @@
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Machine%20Learning-yellow?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-RAG-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-CAG-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-MCP-purple?style=for-the-badge" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 
 ## 📅 Weekly Coding Time
 
-<!-- You need to use WakaTime for this -->
+<!-- You need Wakatime for this -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&layout=compact" />
 </p>
@@ -109,3 +109,4 @@
 </h3>
 
 ---
+
