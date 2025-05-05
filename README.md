@@ -83,7 +83,7 @@
 
 <!-- You need Wakatime for this -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abebe_biru&theme=tokyonight&layout=compact" />
 </p>
 
 ---
