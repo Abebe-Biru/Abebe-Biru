@@ -14,6 +14,7 @@
 
 ## 🧑‍💻 About Me
 
+
 🌍 Building software that makes a difference.
 🤖 Passionate about the influence of AI on local communities and emerging markets.
 🎯 Current focus: Researching and building projects using **RAG (Retrieval-Augmented Generation)**, **CAG (Cache-Augmented Generation)**, and **MCP (Model Context Protocol)**.
