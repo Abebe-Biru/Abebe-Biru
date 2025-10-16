@@ -8,12 +8,6 @@
   <a href="https://linkedin.com/in/abebe-biru" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://facebook.com/abs476" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://twitter.com/AbebeBiru5" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
 </p>
 
 ---
@@ -24,8 +18,6 @@
 - 🤖 Passionate about the influence of AI on local communities and emerging markets.
 - 🎯 Current focus: Researching and building projects using **RAG (Retrieval-Augmented Generation)**, **CAG (Cache-Augmented Generation)**, and **MCP (Model Context Protocol)**.
 - 📚 Booklover exploring tech, innovation, and leadership.
-- ⚡ Fun Fact: I’m a shy bloomer — but once I open up, I'm the best friend you could ask for.
-
 ---
 
 ## 🛠️ Tech Stack
