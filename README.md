@@ -11,7 +11,7 @@
 ## 📌 About Me
 🔭 I’m currently working on
 
-    ✔ AI-driven apps and tools, including translators and utility software.
+    ✔ AI-driven apps and tools, including TTS/SR and utility software.
 👯 I’m looking to collaborate on
 
     ✔ Open-source AI and language-tech projects.
