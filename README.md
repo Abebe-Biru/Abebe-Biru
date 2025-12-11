@@ -37,7 +37,7 @@
     🤖 GenAI/AgenticAI
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abebe-biru&theme=nightowl&radius=10" alt="abebe-biru's Activity Graph" />
 </p>
