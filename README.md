@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abebe%20Biru&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Booklover&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=abebe-biru">
     <img src="https://komarev.com/ghpvc/?username=abebe-biru&label=Profile%20views&color=00FFFF&style=flat-square" alt="abebe-biru's profile views" />
   </a>
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
