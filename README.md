@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abebe%20Biru&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Booklover&descSize=18&descAlignY=55&textBg=false"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+
 <!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=abebe-biru">
     <img src="https://komarev.com/ghpvc/?username=abebe-biru&label=Profile%20views&color=00FFFF&style=flat-square" alt="abebe-biru's profile views" />
@@ -7,7 +10,7 @@
 </p> -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="900" height="300"/>
 </div>
 
 ## 📌 About Me
