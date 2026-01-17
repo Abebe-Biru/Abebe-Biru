@@ -9,9 +9,9 @@
   </a>
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="900" height="300"/>
-</div>
+</div> -->
 
 ## 📌 About Me
 🔭 I’m currently working on
